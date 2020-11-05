@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkassemmkk%2Fpicorv32.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkassemmkk%2Fpicorv32?ref=badge_shield)
+
 
 PicoRV32 - A Size-Optimized RISC-V CPU
 ======================================
@@ -733,3 +735,7 @@ See `make area` in [scripts/vivado/](scripts/vivado/).
 | PicoRV32 (regular) |        910 |             48 |             583 |
 | PicoRV32 (large)   |       2090 |             88 |            1085 |
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkassemmkk%2Fpicorv32.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkassemmkk%2Fpicorv32?ref=badge_large)
